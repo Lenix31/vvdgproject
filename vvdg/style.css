@@ -1,0 +1,19 @@
+body
+{
+    background-color: gray;
+}
+h1
+{
+    color: white;
+}
+input {
+    width: 70%;
+   height: 50px;
+   position: absolute;
+   top: 50%;
+   left: 15%;
+   right: 15%;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-top: -10px;
+  }
