@@ -2,18 +2,26 @@ body
 {
     background-color: gray;
 }
-h1
+h1, h2, h3
 {
     color: white;
 }
-input {
-    width: 70%;
-   height: 50px;
-   position: absolute;
-   top: 50%;
-   left: 15%;
-   right: 15%;
-   margin-left: 0px;
-   margin-right: 0px;
-   margin-top: -10px;
+.center{
+    display: flex;
+    justify-content : center;
+    align-items: center;
+    height: 50vh;
+}
+.timer {
+    font-size: 2.5em;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    background: #ccc;
   }
+  .center2{
+    display: flex;
+    justify-content : center;
+    align-items: center;
+    padding-top: 15px;
+}
