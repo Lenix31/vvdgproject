@@ -1,6 +1,6 @@
 function test()
 {
-    let word = document.querySelector("#variable").value;
+    let word = document.querySelector("#input1").value;
     alert(word)
 }
 

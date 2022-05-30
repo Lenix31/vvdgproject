@@ -1,6 +1,5 @@
 
 
-
 def getNumLetters(text):
     # loop through text, counting number of letters, words and sentences
     l = 0
