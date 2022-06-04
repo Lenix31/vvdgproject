@@ -37,7 +37,7 @@ function startTimer(duration, display) {
 }
 
 function countdown() {
-    var seconds = 10;
+    var seconds = 60;
         display = document.querySelector('#time');
     
     startTimer(seconds, display);
